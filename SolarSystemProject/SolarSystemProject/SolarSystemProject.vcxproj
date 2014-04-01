@@ -79,6 +79,10 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Planet.h" />
+    <ClInclude Include="Satellite.h" />
+    <ClInclude Include="SpaceObject.h" />
+    <ClInclude Include="Star.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
